@@ -20,7 +20,11 @@ Htop is a superior version of built in top. It offers a more intuitive and colou
 
 ### Facebook osquery
 The osquery tool by Facebook provides all Operating System information including the state in a 
-consisted relational database format. List of tables: https://osquery.io/docs/tables/ 
+consisted relational database format. 
+
+* List of tables: [https://osquery.io/docs/tables/](https://osquery.io/docs/tables/)
+* Query packs: [https://osquery.io/docs/packs/](https://osquery.io/docs/packs/)
+
 
 ### Simple python experiments
  
